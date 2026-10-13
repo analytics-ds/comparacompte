@@ -134,7 +134,7 @@ def render(c):
 
 {newsletter(c["news_h2"])}
 
-{footer(R)}
+{footer(R, c.get("footer_brands"))}
 </body>
 </html>
 '''

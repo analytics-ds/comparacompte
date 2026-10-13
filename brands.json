@@ -84,5 +84,45 @@
   "name": "Pixpay",
   "domain": "pixpay.fr",
   "role": "competitor"
+ },
+ {
+  "slug": "linxea",
+  "name": "Linxea",
+  "domain": "linxea.com",
+  "wiki": "Linxea",
+  "role": "competitor"
+ },
+ {
+  "slug": "placement-direct",
+  "name": "Placement-direct",
+  "domain": "placement-direct.fr",
+  "role": "competitor"
+ },
+ {
+  "slug": "lucya-cardif",
+  "name": "Lucya Cardif",
+  "domain": "lucya.com",
+  "role": "competitor"
+ },
+ {
+  "slug": "credit-agricole",
+  "name": "Crédit Agricole",
+  "domain": "credit-agricole.fr",
+  "wiki": "Crédit agricole",
+  "role": "competitor"
+ },
+ {
+  "slug": "credit-mutuel",
+  "name": "Crédit Mutuel",
+  "domain": "creditmutuel.fr",
+  "wiki": "Crédit mutuel",
+  "role": "competitor"
+ },
+ {
+  "slug": "bforbank",
+  "name": "BforBank",
+  "domain": "bforbank.com",
+  "wiki": "BforBank",
+  "role": "competitor"
  }
 ]

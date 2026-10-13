@@ -113,10 +113,11 @@ def newsletter(h2, p=None):
 </section>'''
 
 # ---------------------------------------------------------------- footer
-def footer(R):
+def footer(R, brands=None):
+    """brands : liste (libellé, href) propre à une rubrique, sinon C.FOOTER_BRANDS."""
     home = R if R else "./"
     cats = "".join(f'<li><a href="{R}{c["slug"]}/">{c["nom"]}</a></li>' for c in CATS)
-    brands = "".join(f'<li><a href="{h}">{n}</a></li>' for n, h in C.FOOTER_BRANDS)
+    brands = "".join(f'<li><a href="{h if h.startswith(("http", "#", "/")) else R + h}">{n}</a></li>' for n, h in (brands or C.FOOTER_BRANDS))
     return f'''<footer>
   <div class="wrap">
     <div class="foot-grid">

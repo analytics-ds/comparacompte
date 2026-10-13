@@ -201,7 +201,7 @@ def render(a):
   </div>
 </section>
 
-{footer(R)}
+{footer(R, c.get("footer_brands"))}
 </body>
 </html>
 '''

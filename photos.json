@@ -598,5 +598,113 @@
   "w": 1200,
   "h": 700,
   "alt": ""
+ },
+ "art-19.jpg": {
+  "q": "couple reviewing finances documents",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "art-20.jpg": {
+  "q": "couple keys new house",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "art-21.jpg": {
+  "q": "woman airport terminal phone",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-meilleure-assurance-vie-1.jpg": {
+  "q": "retired couple reading documents",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-meilleure-assurance-vie-2.jpg": {
+  "q": "investment chart laptop",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-banque-credit-immobilier-1.jpg": {
+  "q": "house keys contract signing",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-banque-credit-immobilier-2.jpg": {
+  "q": "apartment building facade",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-carte-premium-voyage-1.jpg": {
+  "q": "paying card restaurant abroad",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-carte-premium-voyage-2.jpg": {
+  "q": "suitcase airport terminal",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "cat-epargne-credit-hero.jpg": {
+  "q": "house keys on table",
+  "w": 2000,
+  "h": 900,
+  "alt": "Maquette de maison et pièces de monnaie"
+ },
+ "cat-epargne-credit.jpg": {
+  "q": "savings plant coins",
+  "w": 760,
+  "h": 720,
+  "alt": "Pièces et jeune pousse"
+ },
+ "sub-assurance-vie.jpg": {
+  "q": "elderly couple smiling",
+  "w": 200,
+  "h": 200,
+  "alt": "Couple de retraités"
+ },
+ "sub-credit-immo.jpg": {
+  "q": "house keys hand",
+  "w": 200,
+  "h": 200,
+  "alt": "Clés de maison"
+ },
+ "sub-carte-premium.jpg": {
+  "q": "black credit card",
+  "w": 200,
+  "h": 200,
+  "alt": "Carte bancaire noire"
+ },
+ "sub-voyage.jpg": {
+  "q": "travel suitcase",
+  "w": 200,
+  "h": 200,
+  "alt": "Valise de voyage"
+ },
+ "sub-fonds-euros.jpg": {
+  "q": "euro banknotes",
+  "w": 200,
+  "h": 200,
+  "alt": "Billets en euros"
+ },
+ "sub-taux.jpg": {
+  "q": "calculator mortgage",
+  "w": 200,
+  "h": 200,
+  "alt": "Calculatrice"
+ },
+ "sub-assurance-emprunteur.jpg": {
+  "q": "signing contract pen",
+  "w": 200,
+  "h": 200,
+  "alt": "Signature d'un contrat"
  }
 }

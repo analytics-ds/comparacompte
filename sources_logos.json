@@ -56,5 +56,40 @@
  "pixpay": {
   "source": "manuel",
   "url": "https://cdn.prod.website-files.com/67dbd8426b4f2c45d0422564/67dc273f747a116df2c977e6_pixpay_logo.avif"
+ },
+ "linxea": {
+  "source": "site",
+  "url": "https://linxea.com/resources/logo/logo-linxea-2026.svg?dpl=b5e10601a3b019ddb9acffb5289abca69bcc6098",
+  "credit": "https://linxea.com/",
+  "file": "linxea.svg"
+ },
+ "placement-direct": {
+  "source": "site",
+  "url": "https://placement-direct.fr/images/logo/placement-direct-logo.svg",
+  "credit": "https://placement-direct.fr/",
+  "file": "placement-direct.svg"
+ },
+ "credit-agricole": {
+  "source": "manuel",
+  "url": "https://commons.wikimedia.org/wiki/File:Cr%C3%A9dit_Agricole_logo_2017.svg",
+  "file": "credit-agricole.svg"
+ },
+ "credit-mutuel": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Logo_Cr%C3%A9dit_Mutuel.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Logo_Cr%C3%A9dit_Mutuel.svg",
+  "file": "credit-mutuel.svg"
+ },
+ "bforbank": {
+  "source": "wikipedia",
+  "url": "https://upload.wikimedia.org/wikipedia/fr/6/63/Logo_BforBank_2023.svg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://fr.wikipedia.org/wiki/Fichier:Logo_BforBank_2023.svg",
+  "file": "bforbank.svg"
+ },
+ "lucya-cardif": {
+  "source": "site",
+  "url": "https://lucya.com/app/uploads/2026/09/LUCYA_CP_logo_noir-1024x298.png",
+  "credit": "https://lucya.com/",
+  "file": "lucya-cardif.png"
  }
 }

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Les 5 rubriques de Comparacompte."""
+"""Les 6 rubriques de Comparacompte."""
 
 CATS = [
  dict(slug="compte-pro", menu="Compte pro", nom="Compte pro", h1="Les meilleurs <em>comptes pro</em> pour indépendants et commerçants",
@@ -120,6 +120,33 @@ CATS = [
        ("Quelle part de son salaire épargner ?","La méthode 50/30/20 propose 20 % pour l'épargne. Avec un petit salaire, mieux vaut un virement automatique fixe, même de 20 ou 30 €, qu'un objectif en pourcentage jamais tenu."),
        ("Un compte sans découvert aide-t-il à tenir son budget ?","Oui. Un paiement sans provision est refusé, ce qui évite les agios et les commissions d'intervention, plafonnées à 8 € par opération et 80 € par mois.")],
   news_h2="Recevez nos fiches pratiques avant tout le monde"),
+ dict(slug="epargne-credit", menu="Épargne et crédit", nom="Épargne et crédit", h1="Bien choisir son <em>assurance vie</em>, son crédit immobilier et sa carte premium",
+  title="Assurance vie, crédit immobilier, carte premium, nos comparatifs 2026",
+  desc="Comparatifs 2026 d'assurances vie en ligne, de banques pour un crédit immobilier et de cartes premium pour voyager. Frais, rendements, conditions et critères affichés.",
+  intro="Les grandes décisions d'argent, celles qui engagent sur des années. Nous comparons les frais réels, les rendements publiés et les conditions d'accès, avec des critères et des poids affichés avant chaque classement.",
+  hero="cat-epargne-credit-hero.jpg", hero_alt="Clés de logement posées à côté de maquettes de maisons",
+  subnav=["Assurance vie","Fonds euros","Crédit immobilier","Taux immobilier","Assurance emprunteur","Carte premium","Voyager à l'étranger"], count="3 comparatifs",
+  feat="epargne-credit/meilleure-assurance-vie",
+  side=["epargne-credit/banque-credit-immobilier","epargne-credit/carte-premium-voyage","budget/epargne-precaution","compte-perso/frais-bancaires"],
+  grid=["epargne-credit/meilleure-assurance-vie","epargne-credit/banque-credit-immobilier","epargne-credit/carte-premium-voyage","budget/epargne-precaution","budget/budget-mensuel","compte-perso/frais-bancaires"],
+  footer_brands=[("Linxea","epargne-credit/meilleure-assurance-vie/"),("Crédit Mutuel","epargne-credit/banque-credit-immobilier/"),("Fortuneo","epargne-credit/carte-premium-voyage/"),("BoursoBank","epargne-credit/")],
+  une_h2="Le comparatif épargne et crédit à la une",
+  grid_h2="Tous les comparatifs épargne et crédit",
+  rank_h2="Le classement des assurances vie en ligne en octobre 2026",
+  rank_p="Note globale sur 10, relevé de démonstration. Les frais et le rendement du fonds en euros pèsent chacun 30 % de la note, le choix des supports et l'accessibilité 20 % chacun.",
+  rank=[("linxea","Linxea Spirit 2","Le meilleur équilibre","0 % sur les versements, 0,5 % par an sur les unités de compte, fonds en euros jusqu'à 3,26 % l'an dernier.","8,7","flat","= 0,0"),
+        ("placement-direct","Placement-direct Vie","Le plus large choix","Plus de 1 300 supports, fonds en euros jusqu'à 3,45 % selon la part en unités de compte.","8,4","flat","= 0,0"),
+        ("boursobank","BoursoVie","Le fonds en euros sans condition","Euro Exclusif à 3,00 % net, ouverture dès 300 €.","8,3","flat","= 0,0"),
+        ("lucya-cardif","Lucya Cardif","Le plus de titres vifs","Plus de 2 300 supports, fonds général à 2,75 %.","8,2","flat","= 0,0"),
+        ("fortuneo","Fortuneo Vie","L'entrée la plus basse","Ouverture dès 100 €, fonds Opportunités 2 de 3 à 4,5 % selon la part en unités de compte.","7,9","flat","= 0,0")],
+  cta_h2="Quelle assurance vie, quel crédit, quelle carte ?", cta_p="Nos comparatifs posent les critères et leur poids avant le classement.",
+  faq_h2="Questions fréquentes sur l'épargne et le crédit",
+  faq=[("Quelle est la meilleure assurance vie en 2026 ?","Dans notre comparatif, Linxea Spirit 2 arrive premier avec 8,7/10, pour ses frais bas et des fonds en euros servis à 3,08 % et 3,26 % l'an dernier. Placement-direct Vie (8,4/10) et BoursoVie (8,3/10) complètent le podium."),
+       ("Quel est le rendement moyen des fonds en euros ?","2,63 % en moyenne pour l'année 2025 selon le rapport définitif de l'ACPR publié le 30 juin 2026, 2,6 % selon France Assureurs. Ce chiffre inclut les bonus, un épargnant qui ne remplit aucune condition touche souvent moins."),
+       ("Quelle banque choisir pour un crédit immobilier ?","Le Crédit Mutuel arrive premier de notre comparatif (8,5/10) pour ses frais de dossier parmi les plus bas des réseaux et sa souplesse, devant le Crédit Agricole (8,4/10), premier prêteur du pays, et BoursoBank (8,2/10), sans frais de dossier mais réservée aux foyers à 30 000 € de revenus par an."),
+       ("Quelle carte premium coûte le moins cher pour voyager ?","La Fortuneo Gold Mastercard est gratuite avec au moins un paiement par mois et ne facture ni paiement ni retrait dans le monde, à condition de 2 200 € de revenus nets mensuels. La Hello Prime est gratuite depuis le 1er octobre 2026 avec 1 500 € versés chaque mois."),
+       ("Comment sont notés ces comparatifs ?","Chaque comparatif affiche ses critères et leurs poids avant le classement. Les notes sur 10 sont un relevé de démonstration de la rédaction, établi à partir des tarifs et conditions publiés par chaque établissement.")],
+  news_h2="Recevez nos comparatifs épargne et crédit avant tout le monde"),
 ]
 
 SUBIMG = {
@@ -135,4 +162,7 @@ SUBIMG = {
                 "Compte étudiant": "sub-etudiant.jpg", "Premier salaire": "sub-salaire.jpg", "Apps famille": "sub-apps.jpg"},
  "budget": {"Budget mensuel": "sub-budget.jpg", "Épargne de précaution": "sub-epargne.jpg", "Livret A": "sub-livret.jpg", "Économies": "sub-economies.jpg",
             "Dépenses fixes": "sub-fixes.jpg", "Petit salaire": "sub-petit-salaire.jpg", "Applis budget": "sub-applis.jpg"},
+ "epargne-credit": {"Assurance vie": "sub-assurance-vie.jpg", "Fonds euros": "sub-fonds-euros.jpg", "Crédit immobilier": "sub-credit-immo.jpg",
+                    "Taux immobilier": "sub-taux.jpg", "Assurance emprunteur": "sub-assurance-emprunteur.jpg", "Carte premium": "sub-carte-premium.jpg",
+                    "Voyager à l'étranger": "sub-voyage.jpg"},
 }
