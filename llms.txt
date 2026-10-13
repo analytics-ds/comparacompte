@@ -14,7 +14,7 @@ Site : https://analytics-ds.github.io/comparacompte/
 
 ## Comparatifs
 
-- [Quelle est la meilleure banque pour un compte pro en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-pro/meilleur-compte-pro/) : Quelle banque pour un compte pro en 2026 ? Qonto mène avec 8,7/10, Nickel Pro suit à 50 € par an. 10 comptes comparés sur le prix, les espèces et les chèques.
+- [Quelle est la meilleure banque pour un compte pro en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-pro/meilleur-compte-pro/) : Quelle banque pour un compte pro en 2026 ? Nickel Pro mène avec 8,7/10 pour 50 € par an, devant Qonto et Shine. 10 comptes comparés sur le prix, les espèces et les chèques.
 - [Quelle banque ouvre un compte sans condition de revenus en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-perso/banque-sans-condition-revenus/) : Quelle banque ouvre un compte sans condition de revenus ? 9 comptes comparés, de 0 € à 46,80 € par an, avec nos critères, leur poids et le classement 2026 argumenté.
 - [Nickel ou N26, quel compte choisir en 2026 ? Le comparatif offre par offre](https://analytics-ds.github.io/comparacompte/compte-perso/nickel-ou-n26/) : Nickel ou N26 ? N26 gagne le prix avec un compte Standard à 0 €, Nickel l'accessibilité à 25 € par an. 7 offres comparées, critères pesés et verdict par profil.
 - [Quel compte pro choisir quand on est auto-entrepreneur en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-pro/compte-pro-auto-entrepreneur/) : Quel compte pro pour un auto-entrepreneur en 2026 ? Nickel Pro mène avec 8,6/10 à 50 € par an, devant Shine et N26 Business, gratuits. 8 comptes comparés.
