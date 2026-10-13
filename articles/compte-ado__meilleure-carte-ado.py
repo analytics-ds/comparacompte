@@ -1,0 +1,101 @@
+# -*- coding: utf-8 -*-
+ARTICLE = dict(
+ cat="compte-ado", slug="meilleure-carte-ado",
+ title="Quelle est la meilleure carte bancaire pour un ado en 2026 ?",
+ desc="Quelle est la meilleure carte bancaire pour un ado ? 6 offres comparées pour les 12-17 ans, de 0 € chez BoursoBank à 25 € par an chez Nickel, avec contrôle parental.",
+ kicker="Classement", h1="Quelle est la meilleure carte bancaire pour un ado en 2026 ?",
+ lead="Votre fille de 13 ans veut payer sa place de cinéma sans passer par votre portefeuille. Nous avons comparé 6 solutions pour les 12-17 ans, des offres jeunes des banques en ligne aux cartes prépayées, sur le prix, les conditions imposées au parent et le contrôle parental.",
+ img="art-9.jpg", img_alt="Adolescent qui regarde son téléphone, assis sur un banc dans un parc",
+ date="2026-10-07", date_fr="7 octobre 2026", reading="9", nb="6", nb_unit="solutions",
+ brief_answer="La carte ado la mieux notée est <b>Nickel</b> avec <b>8,5/10</b> (relevé de démonstration), seule du podium à ne pas exiger que le parent soit client, pour 25 €/an dès 12 ans. L'<b>Offre 12-17 de BoursoBank</b> (8,3/10) est gratuite mais réservée aux enfants d'un client BoursoBank. <b>Revolut &lt;18</b> (8,1/10) démarre dès 6 ans, à condition que le parent soit client Revolut.",
+ brief=[
+  "BoursoBank et Revolut &lt;18 sont gratuits pour le parent déjà client, Nickel facture 25 € par an",
+  "Revolut &lt;18 accepte les enfants dès 6 ans, Nickel et BoursoBank dès 12 ans",
+  "Chez Nickel, le dépôt d'espèces d'un mineur coûte 0,50 % du montant, contre 3 % pour un adulte",
+  "Kard et Xaalys, deux applications pour ados, ont fermé, Kard en novembre 2025",
+ ],
+ table=dict(
+  head=["Solution","Note /10","Prix par an","Âge","Parent client exigé","Le point fort"],
+  rows=[
+   ["Nickel 12-17 ans","8,5","25 €","De 12 à 17 ans","Non, présence du parent à l'ouverture","Le parent n'a pas à changer de banque",1],
+   ["BoursoBank, Offre 12-17","8,3","0 €","De 12 à 17 ans et demi","Oui, client BoursoBank","Gratuite, avec contrôle parental",0],
+   ["Revolut &lt;18","8,1","Inclus dans l'abonnement du parent","De 6 à 17 ans","Oui, client Revolut","Le plus tôt, dès 6 ans",0],
+   ["Pixpay","7,6","35,88 € ou 71,88 €","Non publié","Non publié","Deux formules au choix",0],
+   ["Livret jeune et carte de retrait, banque de réseau","6,8","Selon la plaquette tarifaire","Selon la banque","Selon la banque","Une épargne à côté de la carte",0],
+   ["Carte prépayée rechargeable","6,5","Selon l'émetteur","Selon l'émetteur","Non publié","Le montant chargé fixe la limite",0],
+  ],
+  note="Offres jeunes actives en France, tarifs publiés par les établissements ou relevés dans la presse spécialisée. Pixpay à 2,99 € ou 5,99 € par mois. Notes et tarifs, relevé de démonstration de la rédaction, octobre 2026."),
+ podium=[
+  ("nickel","Nickel","Le plus accessible","Parent non client, 25 €/an","8,5"),
+  ("boursobank","BoursoBank","La moins chère","Offre 12-17 à 0 €, parent client","8,3"),
+  ("revolut","Revolut &lt;18","La plus précoce","Dès 6 ans, parent client Revolut","8,1"),
+ ],
+ sections=[
+  dict(h2="Nos critères et leur poids", id="criteres", body=[
+   ("p","Une carte ado se choisit à deux. L'enfant regarde l'application, le parent regarde ce qu'on lui demande, changer de banque, se déplacer, payer. Notre barème donne autant de poids aux services qu'à l'accessibilité, et le prix compte un peu moins parce que les écarts restent faibles sur l'année."),
+   ("table2",dict(
+     head=["Critère","Poids","Ce qu'on regarde"],
+     rows=[
+      ["Accessibilité","30 %","Parent client exigé ou non, âge minimum"],
+      ["Services","30 %","Contrôle parental, autorisation systématique, espèces, passage à 18 ans"],
+      ["Prix","25 %","Cotisation annuelle, frais de dépôt et de retrait"],
+      ["Ouverture","15 %","Pièces demandées, présence du parent, délai"],
+     ],
+     note="La note globale est la moyenne pondérée des quatre critères.")),
+   ("p","Avec ce barème, une offre gratuite mais réservée aux clients d'une banque perd des points d'accessibilité. Une offre ouverte à tous mais payante en perd sur le prix. Les écarts du podium tiennent entièrement à cet arbitrage."),
+  ]),
+  dict(h2="Le classement des cartes pour ado", id="classement", body=[
+   ("p","Trois offres sortent du lot, avec des logiques opposées. Deux sont gratuites mais demandent au parent d'être déjà client. La troisième est payante mais ouverte à tous les parents."),
+   ("podium",None),
+   ("p","Nickel prend la première place sur l'accessibilité. Le parent n'a pas besoin d'être client, il garde l'accès au contrôle parental quelle que soit sa banque. À 18 ans, le compte devient un compte adulte avec le même RIB. Nickel perd sur deux points. Le prix d'abord, 25 € par an quand BoursoBank et Revolut sont gratuits pour un parent déjà client. L'ouverture ensuite, plus lourde qu'une souscription purement en ligne."),
+   ("p","BoursoBank arrive deuxième avec son Offre 12-17, l'ancienne Freedom. Elle est gratuite, couvre les 12 à 17 ans et demi, s'appuie sur une carte Visa à autorisation systématique et laisse le parent geler la carte ou fixer des plafonds. Sa seule vraie limite, il faut être client BoursoBank."),
+   ("p","Revolut &lt;18 complète le podium. C'est l'offre la plus précoce du marché, dès 6 ans, et l'ado gagne en autonomie entre 13 et 16 ans selon le pays. Le compte est inclus dans l'abonnement du parent, qui doit lui-même être client Revolut. Pour une famille déjà équipée, c'est souvent le choix le plus simple."),
+  ]),
+  dict(h2="Le tableau comparatif des 6 solutions", id="tableau", body=[
+   ("p","Le tableau met côte à côte les offres jeunes des banques et établissements de paiement, et les deux solutions de repli que proposent souvent les parents, un livret avec carte de retrait ou une carte prépayée."),
+   ("table",None),
+   ("img",dict(src="in-meilleure-carte-ado-1.jpg",alt="Adolescente qui paie un achat avec une carte dans une boutique",cap="Avec une carte à autorisation systématique, le paiement est refusé si le solde ne suffit pas.")),
+   ("p","Deux absences méritent d'être signalées. Hello bank! et N26 n'ont pas d'offre ado identifiée en 2026, et les applications Kard et Xaalys, longtemps citées, ont fermé. Kard a été placée en liquidation judiciaire en septembre 2025 et a cessé son activité en novembre. Si un ancien comparatif vous les recommande encore, passez votre chemin."),
+   ("p","Le livret jeune avec carte de retrait reste la solution de nombreuses banques de réseau. Il apprend à épargner, mais une carte de retrait ne sert pas à payer en ligne ni en magasin, ce qui explique sa note. La carte prépayée fait l'inverse, elle paie mais n'apprend rien sur la gestion d'un compte."),
+  ]),
+  dict(h2="Combien coûte une carte ado de 12 à 17 ans", id="prix", body=[
+   ("p","Sur une année, les écarts paraissent minces. Sur six ans, de 12 à 17 ans, ils deviennent visibles. Voici le coût total de la cotisation pour un parent, hors frais d'usage."),
+   ("table2",dict(
+     head=["Solution","Par an","De 12 à 17 ans","Condition"],
+     rows=[
+      ["BoursoBank, Offre 12-17","0 €","0 €","Parent client BoursoBank"],
+      ["Revolut &lt;18","Inclus","Inclus","Parent client Revolut, selon son abonnement"],
+      ["Nickel 12-17 ans","25 €","150 €","Aucune condition de banque pour le parent"],
+      ["Pixpay, première formule","35,88 €","215,28 €","2,99 € par mois"],
+      ["Pixpay, seconde formule","71,88 €","431,28 €","5,99 € par mois"],
+     ],
+     note="Cotisations publiées, sur six années de 12 à 17 ans, hors frais de dépôt et de retrait. Notes et tarifs, relevé de démonstration de la rédaction, octobre 2026.")),
+   ("p","Si vous êtes déjà client BoursoBank ou Revolut, la question est tranchée, l'offre jeune de votre banque ne vous coûte rien. Si vous ne l'êtes pas, comparez les 150 € de Nickel sur six ans à ce que vous coûterait l'ouverture d'un compte chez BoursoBank ou Revolut pour vous-même."),
+   ("p","Les frais d'usage comptent aussi pour les familles qui donnent l'argent de poche en liquide. Chez Nickel, un mineur dépose ses espèces en point de vente pour 0,50 % du montant, avec 0,50 € minimum, dans la limite de 250 € par dépôt et 750 € par mois. Le jeune dispose aussi de 3 retraits gratuits par mois chez les buralistes."),
+   ("img",dict(src="in-meilleure-carte-ado-2.jpg",alt="Billets et pièces posés à côté d'une tirelire sur une étagère",cap="L'argent de poche en liquide reste courant, ce qui rend le dépôt d'espèces utile.")),
+  ]),
+  dict(h2="Comment choisir la carte de son ado", id="choisir", body=[
+   ("h3","Si vous êtes déjà client BoursoBank"),
+   ("p","Prenez l'Offre 12-17. Elle est gratuite, la carte est à autorisation systématique et vous gardez la main sur les plafonds et le gel de la carte. Rien ne justifie de payer ailleurs."),
+   ("h3","Si vous êtes déjà client Revolut ou si votre enfant a moins de 12 ans"),
+   ("p","Revolut &lt;18, inclus dans votre abonnement et ouvert dès 6 ans. C'est la seule offre du tableau qui accompagne un enfant avant le collège, avec une autonomie qui grandit entre 13 et 16 ans selon le pays."),
+   ("h3","Si vous ne voulez pas changer de banque"),
+   ("p","Nickel, pour 25 € par an. Le parent n'a pas à être client et suit le compte en temps réel, avec une notification à chaque opération, le blocage temporaire de la carte et des plafonds mensuels qu'il fixe lui-même. Prévoyez un passage en point de vente. Le parent doit accompagner le jeune, avec les deux pièces d'identité, un téléphone, l'autorisation parentale signée et le livret de famille ou l'acte de naissance."),
+   ("h3","Si votre ado est payé en liquide pour du baby-sitting ou un petit job"),
+   ("p","Nickel garde un avantage net avec le dépôt d'espèces à 0,50 % chez les buralistes. Avant de choisir une offre en ligne, vérifiez comment votre ado pourra y verser ses billets."),
+  ]),
+ ],
+ verdict=dict(h2="Notre verdict", body=[
+  "<b>Nickel</b> obtient la meilleure note avec 8,5/10, parce que c'est la seule offre du podium ouverte à tous les parents, quelle que soit leur banque. Il ne gagne pas sur le prix. <b>BoursoBank</b> est gratuite et <b>Revolut &lt;18</b> est inclus dans l'abonnement du parent, à condition d'être client.",
+  "Si votre priorité est de ne rien payer et que vous êtes client BoursoBank, prenez l'Offre 12-17. Si votre enfant a moins de 12 ans, prenez Revolut &lt;18. Si votre priorité est de ne pas changer de banque ou de déposer de l'argent liquide, prenez Nickel.",
+ ]),
+ faq=[
+  ("Quelle est la meilleure carte bancaire pour un ado en 2026 ?","Nickel obtient la meilleure note de notre classement avec 8,5/10, pour 25 € par an dès 12 ans, sans exiger que le parent soit client. L'Offre 12-17 de BoursoBank (8,3/10) est gratuite mais réservée aux enfants de clients BoursoBank. Revolut &lt;18 (8,1/10) démarre dès 6 ans pour les enfants de clients Revolut."),
+  ("Quelle carte bancaire gratuite pour un ado ?","L'Offre 12-17 de BoursoBank est gratuite, de 12 à 17 ans et demi, avec une carte Visa à autorisation systématique. Revolut &lt;18 est inclus dans l'abonnement du parent. Dans les deux cas, le parent doit être client de la banque."),
+  ("Faut-il être client pour ouvrir un compte Nickel à son ado ?","Non. Le parent n'a pas besoin d'être client Nickel et garde l'accès au contrôle parental. Il doit en revanche autoriser et accompagner le jeune à l'ouverture, avec les pièces d'identité, l'autorisation parentale signée et le livret de famille ou l'acte de naissance. Le compte coûte 25 € par an."),
+  ("À partir de quel âge un ado peut-il avoir une carte bancaire ?","Revolut &lt;18 accepte les enfants dès 6 ans, Nickel et BoursoBank à partir de 12 ans. Dans les trois cas, le compte est ouvert par un parent ou avec son accord. Aucun âge légal minimum n'est publié par les textes officiels, ce sont les établissements qui fixent leur seuil."),
+  ("Que devient le compte Nickel d'un ado à 18 ans ?","À 18 ans, le compte Nickel 12-17 ans devient un compte adulte et garde le même RIB. La cotisation reste de 25 € par an pour l'offre Classic. Le jeune n'a donc aucune démarche de changement de RIB à faire auprès de son employeur ou de son école."),
+  ("Comment sont notés les comptes de ce classement ?","Les notes sont un relevé de démonstration de la rédaction sur cinq critères, accessibilité, prix, ouverture, services et note globale. Dans ce classement des cartes ado, l'accessibilité pèse 30 %, les services 30 %, le prix 25 % et l'ouverture 15 %, la note globale étant leur moyenne pondérée. Nickel obtient 8,5/10, BoursoBank 8,3/10 et Revolut &lt;18 8,1/10."),
+ ],
+ related=["compte-ado/carte-bancaire-age","compte-ado/nickel-ou-revolut-ado","compte-ado/argent-de-poche"],
+)

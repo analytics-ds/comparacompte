@@ -1,0 +1,108 @@
+# -*- coding: utf-8 -*-
+ARTICLE = dict(
+ cat="compte-perso", slug="ouvrir-compte-rapidement",
+ title="Où ouvrir un compte bancaire rapidement, sans rendez-vous, en 2026 ?",
+ desc="Où ouvrir un compte rapidement, sans rendez-vous ? 8 comptes classés sur la vitesse d'ouverture, de 0 € à 25 € par an, et le droit au compte en 3 jours ouvrés.",
+ kicker="Classement", h1="Où ouvrir un compte bancaire rapidement, sans rendez-vous, en 2026 ?",
+ lead="Huit comptes ouverts sans passer par un conseiller, classés d'abord sur la vitesse et la simplicité du parcours, puis sur l'accès, le prix et les services. Vous saurez lequel met une carte dans votre poche le plus vite, et quoi faire si toutes les portes se ferment.",
+ img="art-6.jpg", img_alt="Personne remplissant un formulaire sur son téléphone dans une rue animée",
+ date="2026-10-08", date_fr="8 octobre 2026", reading="9", nb="8",
+ brief_answer="Pour ouvrir un compte vite et sans rendez-vous, <b>Nickel</b> arrive en tête avec <b>8,8/10</b> (relevé de démonstration). Après une pré-inscription en ligne d'environ 5 minutes, la carte et le RIB se récupèrent dans l'un des <b>plus de 8 600 points de vente</b> revendiqués par la marque, ou se reçoivent à domicile. <b>Revolut</b> (8,4/10) et <b>N26</b> (8,2/10) ouvrent un compte gratuit entièrement depuis l'application, mais la carte physique arrive par courrier.",
+ brief=[
+  "Nickel demande une pièce d'identité et un numéro de téléphone, sans justificatif de domicile ni condition de revenus",
+  "Revolut Standard, N26 Standard et Hello One s'ouvrent depuis un téléphone pour 0 €, contre 25 € par an chez Nickel",
+  "Aucune des banques en ligne du panel ne publie de délai garanti entre la demande et la réception de la carte",
+  "En cas de refus, la Banque de France désigne une banque sous 24 heures et le compte s'ouvre sous 3 jours ouvrés",
+ ],
+ table=dict(
+  head=["Compte","Note /10","Parcours d'ouverture","Carte","Prix d'entrée","Le point fort"],
+  rows=[
+   ["Nickel","8,8","Pré-inscription en ligne d'environ 5 minutes","En point de vente ou livrée à domicile","25 € par an","Carte et RIB récupérés chez un buraliste",1],
+   ["Revolut","8,4","Dans l'application","Envoyée par courrier","0 €","Tout se fait depuis le téléphone",0],
+   ["N26","8,2","Dans l'application","Envoyée par courrier","0 €","Gratuit, sans condition de revenus",0],
+   ["Hello bank!","7,8","En ligne","Envoyée par courrier","0 € avec Hello One","Une banque du groupe BNP Paribas",0],
+   ["BoursoBank","7,6","En ligne","Envoyée par courrier","0 € si un paiement par mois","Gratuit pour un usage régulier",0],
+   ["Fortuneo","7,4","En ligne","Envoyée par courrier","0 € si une opération par mois","Un plafond de 2 000 € par mois avec Fosfo",0],
+   ["Monabanq","7,2","En ligne","Envoyée par courrier","3,90 € par mois","Le réseau du Crédit Mutuel derrière",0],
+   ["La Banque Postale, Formule Simplicité","6,8","En bureau de poste","Carte Réalys à autorisation systématique","1 € par mois","Frais d'incidents plafonnés à 20 € par mois",0],
+  ],
+  note="Prix de l'offre d'entrée accessible sans condition de revenus, hors options et incidents. Notes sur quatre critères pondérés (ouverture 40 %, accessibilité 25 %, prix 20 %, services 15 %). Notes et tarifs, relevé de démonstration de la rédaction, octobre 2026."),
+ podium=[
+  ("nickel","Nickel","La carte en main le plus vite","Pré-inscription de 5 minutes, puis point de vente","8,8"),
+  ("revolut","Revolut","Le plus rapide depuis un téléphone","Standard gratuit, tout dans l'application","8,4"),
+  ("n26","N26","Le gratuit le plus simple à ouvrir","Standard à 0 €, sans condition de revenus","8,2"),
+ ],
+ sections=[
+  dict(h2="Nos critères et leur poids", id="criteres", body=[
+   ("p","Rapidement, pour nous, ne veut pas dire « formulaire court ». Cela veut dire le temps qui sépare la décision d'ouvrir un compte du moment où l'on peut payer avec une carte physique et donner un RIB à son employeur. D'où une grille où l'ouverture pèse presque la moitié de la note."),
+   ("ul",[
+    "L'ouverture compte pour 40 % de la note et mesure le parcours, les pièces demandées et la façon d'obtenir la carte.",
+    "L'accessibilité compte pour 25 % et regarde la condition de revenus, le justificatif de domicile et l'acceptation des personnes fichées.",
+    "Le prix compte pour 20 % et retient le coût annuel de l'offre d'entrée, frais d'inactivité compris.",
+    "Les services comptent pour 15 % et couvrent l'application, les espèces et les plafonds de la carte.",
+   ]),
+   ("p","Avec cette grille, un compte payant peut battre un compte gratuit s'il vous donne une carte plus tôt. C'est un choix assumé. Si le prix est votre seul critère, notre classement des comptes sans condition de revenus donne un ordre différent."),
+  ]),
+  dict(h2="Le classement des comptes les plus rapides à ouvrir", id="classement", body=[
+   ("podium",None),
+   ("p","Nickel prend la tête avec 8,8/10 pour une raison concrète. C'est le seul compte du panel où la carte peut être retirée physiquement, dans un point de vente, après une pré-inscription en ligne d'environ 5 minutes. Nickel annonce une Mastercard et un RIB français disponibles immédiatement. Pour quelqu'un qui commence un travail lundi et doit fournir un RIB, c'est un avantage réel."),
+   ("p","Revolut suit à 8,4/10. Tout se passe dans l'application, et le compte Standard est gratuit. N26 complète le podium à 8,2/10 avec un parcours très proche et un compte Standard gratuit lui aussi."),
+  ]),
+  dict(h2="Le tableau comparatif des 8 comptes", id="tableau", body=[
+   ("p","Nous avons retenu, pour chaque marque, l'offre accessible sans condition de revenus et regardé comment elle s'ouvre, comment la carte arrive et ce qu'elle coûte."),
+   ("table",None),
+   ("img",dict(src="in-ouvrir-compte-rapidement-1.jpg",alt="Enveloppe posée sur une boîte aux lettres dans un hall d'immeuble",cap="Chez la plupart des banques en ligne, la carte physique arrive par courrier après la validation du dossier.")),
+   ("p","Le prix est la colonne où Nickel perd. Revolut, N26, Hello bank! avec Hello One, BoursoBank et Fortuneo ouvrent un compte pour 0 €, les deux derniers à condition d'utiliser la carte chaque mois. Le premier du classement facture 25 € par an. Payer pour aller plus vite se défend quand la carte est urgente, beaucoup moins quand elle ne l'est pas."),
+   ("p","Autre limite à garder en tête. Le leader de ce classement est un établissement de paiement, filiale de BNP Paribas, qui ouvre un compte de paiement et non un compte bancaire au sens strict. Pas de chéquier, pas de découvert, un dépôt d'espèces facturé 3 %. Pour un premier compte vite ouvert, cela suffit souvent. Pour un compte de toute une vie, l'application de Revolut ou de N26 est plus complète."),
+  ]),
+  dict(h2="Ce qui ralentit vraiment une ouverture", id="freins", body=[
+   ("p","La plupart des retards ne viennent pas du formulaire. Ils viennent de ce que la banque demande après."),
+   ("ul",[
+    "Un justificatif de domicile manquant ou trop ancien bloque de nombreux dossiers, alors que Nickel n'en demande pas.",
+    "La vérification d'identité par photo ou vidéo échoue souvent sur une pièce abîmée ou un éclairage faible, et il faut recommencer.",
+    "L'envoi de la carte par courrier ajoute un délai que les banques en ligne du panel ne chiffrent pas publiquement.",
+    "Une inscription au FICP ou au FCC peut entraîner un refus chez les banques qui ne publient pas leur politique sur les personnes fichées.",
+   ]),
+   ("p","Le conseil le plus utile tient en une phrase. Préparez une pièce d'identité en bon état, un téléphone chargé et, si vous l'avez, un justificatif de domicile récent avant de commencer, quel que soit l'établissement."),
+  ]),
+  dict(h2="Refusé partout, le droit au compte et ses délais", id="droit-au-compte", body=[
+   ("p","Si aucune banque ne veut de votre dossier, la voie officielle est aussi l'une des plus rapides. Le droit au compte est encadré par des délais légaux, ce qu'aucune banque en ligne ne garantit."),
+   ("table2",dict(
+     head=["Étape","Délai","Qui agit"],
+     rows=[
+      ["Refus d'ouverture","Pas de délai fixé","La banque sollicitée, qui doit vous remettre une attestation de refus"],
+      ["Désignation d'une banque","24 heures, soit 1 jour ouvré après dossier complet","La Banque de France"],
+      ["Liste des justificatifs","3 jours","La banque désignée"],
+      ["Ouverture du compte","3 jours ouvrés après dossier complet","La banque désignée"],
+      ["Validité de la lettre de désignation","6 mois","Vous"],
+     ],
+     note="Délais fixés par la réglementation du droit au compte, publiés par la Banque de France et service-public.fr.")),
+   ("img",dict(src="in-ouvrir-compte-rapidement-2.jpg",alt="Dossier administratif et stylo posés sur un bureau près d'une fenêtre",cap="Avec un dossier complet, le droit au compte aboutit en quelques jours ouvrés.")),
+   ("quote","Le droit au compte est plus lent qu'un buraliste, mais il ne peut pas vous dire non."),
+   ("p","Le compte ouvert ainsi donne accès aux services bancaires de base, gratuitement. Si votre banque vous reconnaît ensuite en situation de fragilité financière, elle doit vous proposer l'offre clientèle fragile, plafonnée à 3 € par mois. La Formule Simplicité de La Banque Postale la facture 1 € par mois."),
+  ]),
+  dict(h2="Nickel, Revolut ou N26, comment choisir", id="choisir", body=[
+   ("h3","Si vous avez besoin d'une carte dans la journée"),
+   ("p","Nickel. La pré-inscription en ligne prend environ 5 minutes, puis la carte et le RIB se récupèrent dans un point de vente. Comptez 25 € par an pour le compte Classic."),
+   ("h3","Si vous voulez ouvrir depuis votre canapé, gratuitement"),
+   ("p","Revolut, pour l'application la plus complète, ou N26, pour une interface plus sobre. Les deux comptes Standard sont gratuits. Prévoyez quelques jours pour la carte physique."),
+   ("h3","Si vous voulez une banque d'un grand groupe"),
+   ("p","Hello bank! avec Hello One, gratuit et sans condition de revenus. Le parcours est en ligne, la carte arrive par courrier, les plafonds sont de 1 000 € par mois en paiement."),
+   ("h3","Si vous avez déjà essuyé un refus"),
+   ("p","Tentez Nickel, qui accepte les personnes fichées à la Banque de France. En parallèle, gardez l'attestation de refus et saisissez la Banque de France au titre du droit au compte, les délais légaux jouent pour vous."),
+  ]),
+ ],
+ verdict=dict(h2="Notre verdict", body=[
+  "Pour ouvrir un compte rapidement et sans rendez-vous, <b>Nickel</b> est notre premier choix avec 8,8/10, parce que c'est le seul à mettre une carte en main en point de vente après une courte pré-inscription en ligne. Il le fait payer 25 € par an, là où cinq concurrents du panel ouvrent pour 0 €.",
+  "Si votre priorité est la gratuité et que la carte peut attendre le courrier, prenez <b>Revolut</b> ou <b>N26</b>. Si votre priorité est de ne plus jamais vous voir refuser un compte, lancez le <b>droit au compte</b> auprès de la Banque de France.",
+ ]),
+ faq=[
+  ("Quelle banque ouvre un compte le plus rapidement ?","Nickel obtient la meilleure note de notre classement, 8,8/10, avec une pré-inscription en ligne d'environ 5 minutes puis une carte et un RIB récupérés en point de vente. Revolut (8,4/10) et N26 (8,2/10) s'ouvrent entièrement depuis l'application, avec une carte physique envoyée par courrier."),
+  ("Peut-on ouvrir un compte bancaire sans rendez-vous ?","Oui. Revolut, N26, Hello bank!, BoursoBank, Fortuneo et Monabanq s'ouvrent sans rendez-vous avec un conseiller, en ligne ou dans l'application. Chez Nickel, un passage en point de vente sert à récupérer la carte, sauf livraison à domicile."),
+  ("Quels documents faut-il pour ouvrir un compte Nickel ?","Nickel demande une pièce d'identité et un numéro de téléphone. Il ne réclame ni justificatif de domicile, ni justificatif de revenus, ni dépôt minimum, et le compte coûte 25 € par an en version Classic."),
+  ("Combien de temps prend le droit au compte ?","La Banque de France désigne une banque sous 24 heures, soit 1 jour ouvré, après réception d'un dossier complet. La banque désignée envoie la liste des justificatifs sous 3 jours, puis ouvre le compte sous 3 jours ouvrés après dossier complet. La lettre de désignation reste valable 6 mois."),
+  ("Un compte ouvert rapidement est-il forcément payant ?","Non. Revolut Standard, N26 Standard et Hello One de Hello bank! s'ouvrent en ligne pour 0 €. Nickel facture 25 € par an, la contrepartie d'une carte retirée en point de vente et d'une ouverture sans justificatif de domicile."),
+  ("Comment sont notés les comptes ?","Les notes sont un relevé de démonstration sur cinq critères, l'accessibilité, le prix, l'ouverture, les services et la note globale qui les synthétise. Dans ce classement, l'ouverture pèse 40 %, l'accessibilité 25 %, le prix 20 % et les services 15 %. La note globale sur 10 est la moyenne pondérée de ces quatre critères."),
+ ],
+ related=["compte-perso/banque-sans-condition-revenus","interdit-bancaire/droit-au-compte","compte-perso/nickel-ou-n26"],
+)

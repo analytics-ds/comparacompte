@@ -1,0 +1,42 @@
+# Comparacompte
+
+> Le média des comptes bancaires du quotidien, perso, pro et ado. Nous relevons les tarifs, nous comparons, nous classons.
+
+Site : https://analytics-ds.github.io/comparacompte/
+
+## Rubriques
+
+- [Compte pro](https://analytics-ds.github.io/comparacompte/compte-pro/) : Comparatifs de comptes pro 2026 pour auto-entrepreneurs, artisans et commerçants. Qonto, Shine, Nickel Pro, N26 Business, prix annuels et dépôt d'espèces.
+- [Compte perso](https://analytics-ds.github.io/comparacompte/compte-perso/) : Comparatifs de comptes bancaires du quotidien 2026, sans condition de revenus, ouverture rapide, néobanques et banques en ligne. Prix annuels, cartes et conditions.
+- [Interdit bancaire](https://analytics-ds.github.io/comparacompte/interdit-bancaire/) : Interdit bancaire, fiché FICP ou FCC, quelles banques acceptent d'ouvrir un compte en 2026 ? Droit au compte, offre clientèle fragile, frais d'incident plafonnés.
+- [Compte ado](https://analytics-ds.github.io/comparacompte/compte-ado/) : Comparatifs de comptes et cartes bancaires pour ado en 2026, dès 12 ans. BoursoBank, Revolut, Nickel, Pixpay, prix, contrôle parental et conditions pour les parents.
+- [Budget et épargne](https://analytics-ds.github.io/comparacompte/budget/) : Fiches pratiques de finance du quotidien, faire son budget mensuel avec un petit salaire, épargne de précaution, Livret A à 1,7 % et méthode 50/30/20 expliquée.
+
+## Comparatifs
+
+- [Quelle est la meilleure banque pour un compte pro en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-pro/meilleur-compte-pro/) : Quelle banque pour un compte pro en 2026 ? Qonto mène avec 8,7/10, Nickel Pro suit à 50 € par an. 10 comptes comparés sur le prix, les espèces et les chèques.
+- [Quelle banque ouvre un compte sans condition de revenus en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-perso/banque-sans-condition-revenus/) : Quelle banque ouvre un compte sans condition de revenus ? 9 comptes comparés, de 0 € à 46,80 € par an, avec nos critères, leur poids et le classement 2026 argumenté.
+- [Nickel ou N26, quel compte choisir en 2026 ? Le comparatif offre par offre](https://analytics-ds.github.io/comparacompte/compte-perso/nickel-ou-n26/) : Nickel ou N26 ? N26 gagne le prix avec un compte Standard à 0 €, Nickel l'accessibilité à 25 € par an. 7 offres comparées, critères pesés et verdict par profil.
+- [Quel compte pro choisir quand on est auto-entrepreneur en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-pro/compte-pro-auto-entrepreneur/) : Quel compte pro pour un auto-entrepreneur en 2026 ? Nickel Pro mène avec 8,6/10 à 50 € par an, devant Shine et N26 Business, gratuits. 8 comptes comparés.
+- [Quelle banque accepte les interdits bancaires ? Le classement 2026](https://analytics-ds.github.io/comparacompte/interdit-bancaire/banque-interdit-bancaire/) : Quelle banque accepte les interdits bancaires ? 6 solutions comparées, du droit au compte gratuit à l'offre clientèle fragile plafonnée à 3 € par mois.
+- [Où ouvrir un compte bancaire rapidement, sans rendez-vous, en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-perso/ouvrir-compte-rapidement/) : Où ouvrir un compte rapidement, sans rendez-vous ? 8 comptes classés sur la vitesse d'ouverture, de 0 € à 25 € par an, et le droit au compte en 3 jours ouvrés.
+- [Quelle est la meilleure carte bancaire pour un ado en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-ado/meilleure-carte-ado/) : Quelle est la meilleure carte bancaire pour un ado ? 6 offres comparées pour les 12-17 ans, de 0 € chez BoursoBank à 25 € par an chez Nickel, avec contrôle parental.
+- [Quel compte pro pour un commerçant ou un artisan qui encaisse des espèces ?](https://analytics-ds.github.io/comparacompte/compte-pro/compte-pro-especes/) : Quel compte pro quand on encaisse des espèces ? Nickel Pro mène avec 8,7/10 et un dépôt à 3 % en point de vente, devant La Banque Postale. 8 comptes comparés.
+- [Quel compte bancaire sans découvert pour ne plus payer d'agios ?](https://analytics-ds.github.io/comparacompte/interdit-bancaire/compte-sans-decouvert/) : Quel compte sans découvert choisir pour ne plus payer d'agios ? 7 comptes comparés, de 0 à 25 € par an, avec leurs conditions de gratuité et leurs frais de rejet.
+- [Nickel ou Revolut &lt;18, quel compte choisir pour son ado en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-ado/nickel-ou-revolut-ado/) : Nickel ou Revolut &lt;18 pour son ado ? Revolut est gratuit dès 6 ans si le parent est client, Nickel coûte 25 € par an dès 12 ans sans changer de banque. Le duel.
+- [Un compte pro est-il obligatoire pour un micro-entrepreneur en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-pro/compte-pro-obligatoire/) : Non, pas tout de suite. Un micro-entrepreneur doit ouvrir un compte dédié s'il dépasse 10 000 € de chiffre d'affaires deux années civiles de suite. 8 cas chiffrés.
+- [Combien coûte un compte bancaire par an en 2026 ? Les vrais chiffres](https://analytics-ds.github.io/comparacompte/compte-perso/frais-bancaires/) : Combien coûte un compte bancaire par an ? Plus de 67 € de frais fixes en banque de réseau, 0 € en banque en ligne sous condition d'usage. Dix postes chiffrés.
+- [Comment faire jouer le droit au compte auprès de la Banque de France ?](https://analytics-ds.github.io/comparacompte/interdit-bancaire/droit-au-compte/) : Comment faire jouer le droit au compte ? La Banque de France désigne une banque en 1 jour ouvré, qui ouvre le compte sous 3 jours ouvrés. Étapes, pièces et pièges.
+- [Rejet de prélèvement, commission d'intervention, quels plafonds en 2026 ?](https://analytics-ds.github.io/comparacompte/interdit-bancaire/frais-incident/) : Rejet de prélèvement, commission d'intervention, combien facture la banque ? 20 € au plus par rejet, 8 € par commission et 80 € par mois. Tous les plafonds.
+- [À quel âge un enfant peut-il avoir une carte bancaire en 2026 ?](https://analytics-ds.github.io/comparacompte/compte-ado/carte-bancaire-age/) : À quel âge un enfant peut-il avoir une carte bancaire ? Aucun âge légal. Certaines néobanques l'ouvrent dès 6 ans, la plupart des offres ados dès 12 ans.
+- [Combien d'argent de poche donner à son ado en 2026 ? Montants par âge](https://analytics-ds.github.io/comparacompte/compte-ado/argent-de-poche/) : Combien d'argent de poche donner à son ado ? Les fourchettes observées vont d'environ 13 € par mois à 12 ans à 63 € à 17 ans. Montants par âge, rythme et règles.
+- [Comment faire son budget mensuel avec un petit salaire en 2026 ?](https://analytics-ds.github.io/comparacompte/budget/budget-mensuel/) : Comment faire son budget mensuel avec un petit salaire ? Sur 1 450 € nets, les dépenses fixes absorbent souvent 45 à 62 % du revenu. Budget type, méthode et pièges.
+- [Combien mettre de côté en épargne de précaution en 2026 ?](https://analytics-ds.github.io/comparacompte/budget/epargne-precaution/) : Combien mettre de côté en épargne de précaution ? L'usage conseille 3 à 6 mois de dépenses, soit 3 900 à 7 800 € pour 1 300 € par mois. Montants et livrets à 1,7 %.
+
+## Méthode
+
+- Les tarifs sont relevés dans les plaquettes tarifaires et les pages officielles des établissements, frais de tenue de compte et de carte compris
+- Les conditions d'ouverture (revenus, âge, justificatifs, délai) sont vérifiées sur le parcours d'ouverture de chaque offre
+- Les plafonds réglementaires (frais d'incident, offre clientèle fragile, droit au compte) sont ceux publiés par la Banque de France et service-public.fr
+- Les avis clients sont lus sur les stores d'applications et Trustpilot, en retenant les motifs récurrents plutôt que la note seule
+- Chaque critère est noté sur 10 et la grille de notation est identique d'un comparatif à l'autre

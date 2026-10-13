@@ -1,0 +1,88 @@
+[
+ {
+  "slug": "nickel",
+  "name": "Nickel",
+  "domain": "nickel.eu",
+  "role": "client"
+ },
+ {
+  "slug": "qonto",
+  "name": "Qonto",
+  "domain": "qonto.com",
+  "wiki": "Qonto",
+  "role": "competitor"
+ },
+ {
+  "slug": "shine",
+  "name": "Shine",
+  "domain": "shine.fr",
+  "role": "competitor"
+ },
+ {
+  "slug": "blank",
+  "name": "Blank",
+  "domain": "blank.app",
+  "role": "competitor"
+ },
+ {
+  "slug": "revolut",
+  "name": "Revolut",
+  "domain": "revolut.com",
+  "wiki": "Revolut",
+  "role": "competitor"
+ },
+ {
+  "slug": "n26",
+  "name": "N26",
+  "domain": "n26.com",
+  "wiki": "N26",
+  "role": "competitor"
+ },
+ {
+  "slug": "manager-one",
+  "name": "Manager.one",
+  "domain": "manager.one",
+  "role": "competitor"
+ },
+ {
+  "slug": "boursobank",
+  "name": "BoursoBank",
+  "domain": "boursobank.com",
+  "wiki": "BoursoBank",
+  "role": "competitor"
+ },
+ {
+  "slug": "hello-bank",
+  "name": "Hello bank!",
+  "domain": "hellobank.fr",
+  "wiki": "Hello bank!",
+  "role": "competitor"
+ },
+ {
+  "slug": "fortuneo",
+  "name": "Fortuneo",
+  "domain": "fortuneo.fr",
+  "wiki": "Fortuneo",
+  "role": "competitor"
+ },
+ {
+  "slug": "la-banque-postale",
+  "name": "La Banque Postale",
+  "domain": "labanquepostale.fr",
+  "wiki": "La Banque postale",
+  "role": "competitor"
+ },
+ {
+  "slug": "monabanq",
+  "name": "Monabanq",
+  "domain": "monabanq.com",
+  "wiki": "Monabanq",
+  "role": "competitor"
+ },
+ {
+  "slug": "pixpay",
+  "name": "Pixpay",
+  "domain": "pixpay.fr",
+  "role": "competitor"
+ }
+]

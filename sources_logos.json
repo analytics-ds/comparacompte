@@ -1,0 +1,60 @@
+{
+ "nickel": {
+  "source": "manuel",
+  "url": "https://nickel.eu/themes/custom/nickel_theme/logo.svg"
+ },
+ "qonto": {
+  "source": "manuel",
+  "url": "https://qonto.com/fr (svg inline du header)"
+ },
+ "shine": {
+  "source": "manuel",
+  "url": "https://www.shine.fr/ (svg inline du header)"
+ },
+ "blank": {
+  "source": "manuel",
+  "url": "https://www.blank.app/ (logo du header)"
+ },
+ "revolut": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Revolut_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Revolut_logo.svg",
+  "file": "revolut.svg"
+ },
+ "n26": {
+  "source": "manuel",
+  "url": "https://n26.com/fr-fr (svg inline du header)"
+ },
+ "boursobank": {
+  "source": "manuel",
+  "url": "https://www.boursobank.com/ (svg inline du header)"
+ },
+ "hello-bank": {
+  "source": "manuel",
+  "url": "https://commons.wikimedia.org/wiki/File:Hello_bank_logo_2013.svg (bulle retirée pour la silhouette)"
+ },
+ "fortuneo": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Fortuneo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Fortuneo.svg",
+  "file": "fortuneo.svg"
+ },
+ "la-banque-postale": {
+  "source": "manuel",
+  "url": "https://www.labanquepostale.fr/ (logo du header)"
+ },
+ "monabanq": {
+  "source": "wikipedia",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Monabanq_logo.png/960px-Monabanq_logo.png?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File:Monabanq_logo.png",
+  "file": "monabanq.png"
+ },
+ "manager-one": {
+  "source": "manuel",
+  "url": "https://www.manager.one/ (svg inline du header)"
+ },
+ "pixpay": {
+  "source": "manuel",
+  "url": "https://cdn.prod.website-files.com/67dbd8426b4f2c45d0422564/67dc273f747a116df2c977e6_pixpay_logo.avif"
+ }
+}

@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+ARTICLE = dict(
+ cat="interdit-bancaire", slug="compte-sans-decouvert",
+ title="Quel compte bancaire sans découvert pour ne plus payer d'agios ?",
+ desc="Quel compte sans découvert choisir pour ne plus payer d'agios ? 7 comptes comparés, de 0 à 25 € par an, avec leurs conditions de gratuité et leurs frais de rejet.",
+ kicker="Classement", h1="Quel compte bancaire sans découvert pour ne plus payer d'agios ?",
+ lead="80 € par mois. C'est ce qu'une banque peut facturer en commissions d'intervention à un client à découvert, avant même les agios. Nous avons comparé 7 comptes d'entrée de gamme pour sortir de ce cycle, avec leur prix, leurs conditions de gratuité et les frais qui restent quand le solde est vide.",
+ img="art-8.jpg", img_alt="Ticket de caisse et pièces de monnaie posés sur une table en bois",
+ date="2026-10-05", date_fr="5 octobre 2026", reading="9", nb="7",
+ brief_answer="Le compte sans découvert le mieux noté est <b>Nickel</b> avec <b>8,6/10</b> (relevé de démonstration), parce que son compte de paiement ne peut pas passer en négatif et reste ouvert sans condition de revenus, même aux fichés, pour 25 €/an. <b>Hello bank!</b> avec Hello One (8,3/10) et <b>N26</b> (8,2/10) offrent une carte à autorisation systématique pour 0 €. Sans découvert ne veut pas dire sans frais, un prélèvement rejeté reste facturé.",
+ brief=[
+  "Une commission d'intervention coûte jusqu'à 8 € par opération et 80 € par mois dans le cas général",
+  "Hello One, N26 Standard et Revolut Standard sont gratuits et à autorisation systématique, Nickel coûte 25 € par an",
+  "Un rejet de prélèvement est plafonné à 20 € et au montant du prélèvement, Nickel le facture 10 €",
+  "Fortuneo Fosfo et BoursoBank Ultim sont gratuits sous condition d'activité, sinon 2 € ou 9 € par mois",
+ ],
+ table=dict(
+  head=["Compte","Note /10","Prix par an","Découvert possible","Condition de gratuité","Le point fort"],
+  rows=[
+   ["Nickel Classic","8,6","25 €","Non, autorisation systématique","Aucune, 25 € pour tous","Ouvert aux fichés, sans justificatif de domicile",1],
+   ["Hello bank!, Hello One","8,3","0 €","Non, autorisation systématique","Aucune condition de revenus","Gratuit, adossé au groupe BNP Paribas",0],
+   ["N26 Standard","8,2","0 €","Non, autorisation systématique","Aucune condition de revenus","Une gamme qui monte jusqu'à Metal",0],
+   ["Revolut Standard","8,1","0 €","Non, autorisation systématique","Aucune condition de revenus","L'application la plus complète",0],
+   ["La Banque Postale, Formule Simplicité","7,9","12 €","Non, carte Réalys à autorisation systématique","Réservée à la clientèle fragile","Frais d'incident plafonnés à 20 € par mois",0],
+   ["Fortuneo Fosfo","7,7","0 €","Non publié","1 paiement ou retrait par mois, sinon 2 € par mois","2 000 € de paiements par mois",0],
+   ["BoursoBank Ultim","7,6","0 €","Non publié","1 paiement par mois, sinon 9 € par mois","Gratuite sans condition de revenus",0],
+  ],
+  note="Offres d'entrée de gamme, tarifs publiés par les établissements ou relevés dans la presse spécialisée. Notes et tarifs, relevé de démonstration de la rédaction, octobre 2026."),
+ podium=[
+  ("nickel","Nickel","Le plus accessible","Aucun découvert possible, 25 €/an","8,6"),
+  ("hello-bank","Hello bank!","La meilleure offre gratuite","Hello One à 0 €, sans condition de revenus","8,3"),
+  ("n26","N26","L'alternative en ligne","Standard à 0 €, Smart à 4,90 €/mois","8,2"),
+ ],
+ sections=[
+  dict(h2="Nos critères et leur poids", id="criteres", body=[
+   ("p","Un compte sans découvert ne sert pas à faire des économies sur la carte. Il sert à arrêter de payer des frais qui tombent quand le solde passe sous zéro. Le prix pèse donc lourd dans notre barème, mais au sens large, cotisation comprise, conditions de gratuité et frais qui restent en cas d'incident."),
+   ("table2",dict(
+     head=["Critère","Poids","Ce qu'on regarde"],
+     rows=[
+      ["Prix","35 %","Cotisation, conditions de gratuité, frais de rejet et d'incident"],
+      ["Accessibilité","25 %","Condition de revenus, fichés acceptés, justificatifs demandés"],
+      ["Services","25 %","Carte à autorisation systématique publiée, plafonds, espèces, application"],
+      ["Ouverture","15 %","Démarches, délai, lieu où l'on obtient la carte"],
+     ],
+     note="La note globale est la moyenne pondérée des quatre critères.")),
+   ("p","Un compte qui ne publie pas clairement de carte à autorisation systématique perd des points de services. C'est ce qui place Fortuneo et BoursoBank en bas du tableau, alors que leurs offres sont gratuites."),
+  ]),
+  dict(h2="Le classement des comptes sans découvert", id="classement", body=[
+   ("p","Les trois premiers sont séparés de 0,4 point. Le podium se joue sur un seul critère, l'accessibilité, parce que sur le reste les offres se ressemblent beaucoup."),
+   ("podium",None),
+   ("p","Nickel passe devant grâce à l'accessibilité. Le compte s'ouvre sans condition de revenus, sans justificatif de domicile, et les fichés Banque de France y sont acceptés. Le solde ne peut pas devenir négatif, la carte refuse le paiement, il n'y a donc ni découvert ni agios. Sur le prix, Nickel perd nettement. À 25 € par an, il est battu par cinq offres gratuites de ce tableau."),
+   ("p","Hello bank! prend la deuxième place avec Hello One, gratuite et sans condition de revenus. Sa contrainte tient aux plafonds, 1 000 € de paiements par mois et 400 € de retraits par semaine, ce qui suffit pour un budget serré mais coince vite un ménage qui paie ses courses et ses factures par carte. Hello bank! et Nickel appartiennent tous deux au groupe BNP Paribas."),
+   ("p","N26 complète le podium avec son offre Standard à 0 €, sans condition de revenus. Revolut arrive juste derrière à 8,1/10 avec l'application la plus riche du panel. Chez les deux néobanques, comme chez Hello bank!, l'ouverture reste soumise à l'acceptation du dossier, ce qui compte pour une personne fichée."),
+  ]),
+  dict(h2="Le tableau comparatif des 7 comptes", id="tableau", body=[
+   ("p","Chaque ligne correspond à l'offre d'entrée de gamme de l'établissement. La colonne « Découvert possible » indique si une carte à autorisation systématique est annoncée sur cette offre."),
+   ("table",None),
+   ("img",dict(src="in-compte-sans-decouvert-1.jpg",alt="Main qui tend une carte vers un terminal de paiement dans un commerce",cap="Avec l'autorisation systématique, le terminal interroge le solde avant d'accepter le paiement.")),
+   ("p","Trois enseignements sortent du tableau. Le premier, l'absence de découvert n'est plus une rareté. Hello One, N26, Revolut et la Formule Simplicité de La Banque Postale l'offrent aussi, et cinq comptes du tableau affichent 0 €. Le deuxième, la gratuité a parfois une condition d'usage. Chez Fortuneo, sans un paiement ou un retrait dans le mois, le compte coûte 2 €. Chez BoursoBank, sans paiement mensuel, il coûte 9 €, soit 108 € sur une année d'oubli. Le troisième, seul Nickel accepte les fichés de façon publiée, ce qui justifie sa première place malgré son prix."),
+  ]),
+  dict(h2="Sans découvert ne veut pas dire sans frais", id="frais", body=[
+   ("p","Un compte sans découvert supprime les agios et les commissions liées au solde négatif. Il ne supprime pas tout. Un prélèvement qui arrive sur un compte vide est rejeté, et ce rejet se paie, chez Nickel comme ailleurs."),
+   ("table2",dict(
+     head=["Frais","Montant","Plafond ou règle"],
+     rows=[
+      ["Commission d'intervention, cas général","8 € par opération","80 € par mois au plus"],
+      ["Commission d'intervention, offre clientèle fragile","4 € par opération","20 € par mois et 200 € par an au plus"],
+      ["Frais d'incident, client fragile sans l'offre","25 € par mois au plus","Commissions comprises, 9 catégories de frais"],
+      ["Rejet de prélèvement, règle générale","20 € au plus","Jamais plus que le montant du prélèvement"],
+      ["Rejet de prélèvement chez Nickel","10 €","La moitié du plafond légal"],
+      ["Frais d'incident, Formule Simplicité","20 € par mois au plus","200 € par an au plus"],
+     ],
+     note="Plafonds réglementaires et plaquettes tarifaires publiées. Notes et tarifs, relevé de démonstration de la rédaction, octobre 2026.")),
+   ("p","Prenons un mois difficile avec quatre paiements par carte sans provision dans une banque classique. Ils passent, le compte bascule en négatif et la banque peut prélever 32 € de commissions d'intervention, en plus des agios. Sur un compte à autorisation systématique, ces quatre paiements sont simplement refusés à la caisse. C'est désagréable, mais ça ne coûte rien."),
+   ("img",dict(src="in-compte-sans-decouvert-2.jpg",alt="Factures et relevé de compte étalés sur un bureau à côté d'une calculatrice",cap="Les prélèvements rejetés restent le principal poste de frais sur un compte sans découvert.")),
+   ("quote","Le découvert coûte cher parce qu'il est invisible au moment du paiement. Une carte qui dit non à la caisse coûte zéro euro et règle le problème avant qu'il n'arrive sur le relevé."),
+   ("p","Reste le cas des espèces. Nickel facture 3 % le dépôt en point de vente, soit 15 € pour 500 € déposés. Pour quelqu'un qui reçoit une partie de ses revenus en liquide, ce coût peut dépasser la cotisation annuelle en deux mois."),
+  ]),
+  dict(h2="Comment choisir un compte sans découvert", id="choisir", body=[
+   ("h3","Si vous êtes fiché ou sans justificatif de domicile"),
+   ("p","Nickel. C'est la seule offre du tableau qui accepte publiquement les fichés Banque de France. La pré-inscription se fait en ligne en 5 minutes environ, puis la carte et le RIB se récupèrent dans l'un des plus de 8 600 points de vente revendiqués, ou arrivent à domicile."),
+   ("h3","Si vous voulez payer zéro euro"),
+   ("p","Hello One de Hello bank!, gratuite sans condition de revenus. Si ses plafonds vous gênent, N26 Standard et Revolut Standard sont aussi à 0 €, avec une application plus riche chez Revolut."),
+   ("h3","Si votre banque vous a déjà classé client fragile"),
+   ("p","Demandez-lui l'offre clientèle fragile, plafonnée à 3 € par mois. À La Banque Postale, la Formule Simplicité coûte 1 € par mois et limite les frais d'incident à 20 € par mois, un filet de sécurité qu'aucune néobanque ne publie."),
+   ("h3","Si vous utilisez votre carte tous les jours"),
+   ("p","Fortuneo Fosfo ou BoursoBank Ultim restent gratuits tant que vous payez au moins une fois par mois. Vérifiez sur la plaquette tarifaire si un découvert peut être accordé, puis demandez qu'il ne le soit pas."),
+  ]),
+ ],
+ verdict=dict(h2="Notre verdict", body=[
+  "<b>Nickel</b> est le compte sans découvert le mieux noté avec 8,6/10, grâce à une accessibilité qu'aucun concurrent ne publie. Il est pourtant battu sur le prix par <b>Hello bank!</b> et <b>N26</b>, gratuits et eux aussi à autorisation systématique, qui le suivent à 0,3 et 0,4 point.",
+  "Si votre priorité est d'ouvrir un compte malgré un fichage, prenez Nickel. Si votre priorité est de ne rien payer, prenez Hello One, ou N26 Standard si les plafonds de Hello bank! vous gênent. Si votre banque vous reconnaît comme client fragile, demandez son offre spécifique avant de partir.",
+ ]),
+ faq=[
+  ("Quel est le meilleur compte bancaire sans découvert en 2026 ?","Nickel obtient la meilleure note de notre classement avec 8,6/10, parce qu'il accepte les fichés et ne peut pas passer en négatif, pour 25 € par an. Hello bank! avec Hello One (8,3/10) et N26 Standard (8,2/10) offrent la même absence de découvert gratuitement, avec une ouverture soumise à l'acceptation du dossier."),
+  ("Un compte sans découvert évite-t-il tous les frais bancaires ?","Non. Il supprime les agios et les commissions liées au solde négatif, mais un prélèvement rejeté reste facturé. Le rejet est plafonné à 20 € et au montant du prélèvement, Nickel le facture 10 €."),
+  ("Qu'est-ce qu'une carte à autorisation systématique ?","C'est une carte qui vérifie le solde du compte avant chaque paiement ou retrait et refuse l'opération si la provision manque. Hello One, N26 Standard, Revolut Standard, Nickel et la carte Réalys de La Banque Postale fonctionnent ainsi."),
+  ("Combien coûte un découvert dans une banque classique ?","En plus des agios, la banque peut facturer une commission d'intervention de 8 € par opération, dans la limite de 80 € par mois. Pour un client qui bénéficie de l'offre clientèle fragile, elle tombe à 4 € par opération, 20 € par mois et 200 € par an."),
+  ("Existe-t-il un compte sans découvert gratuit ?","Oui. Hello One de Hello bank!, N26 Standard et Revolut Standard sont à 0 € sans condition de revenus. Fortuneo Fosfo et BoursoBank Ultim sont gratuits si vous utilisez la carte chaque mois, sinon ils coûtent 2 € ou 9 € par mois."),
+  ("Comment sont notés les comptes de ce classement ?","Les notes sont un relevé de démonstration de la rédaction sur cinq critères, accessibilité, prix, ouverture, services et note globale. Dans ce classement des comptes sans découvert, le prix pèse 35 %, l'accessibilité 25 %, les services 25 % et l'ouverture 15 %, la note globale étant leur moyenne pondérée. Nickel obtient 8,6/10, Hello bank! 8,3/10 et N26 8,2/10."),
+ ],
+ related=["interdit-bancaire/frais-incident","interdit-bancaire/banque-interdit-bancaire","compte-perso/banque-sans-condition-revenus"],
+)

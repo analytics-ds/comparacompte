@@ -1,0 +1,602 @@
+{
+ "hero-bg.jpg": {
+  "q": "woman paying contactless card",
+  "w": 2400,
+  "h": 1600,
+  "alt": "Paiement sans contact par carte bancaire"
+ },
+ "cat-compte-pro.jpg": {
+  "q": "small business owner laptop",
+  "w": 760,
+  "h": 720,
+  "alt": "Commerçante à son comptoir"
+ },
+ "cat-compte-pro-hero.jpg": {
+  "q": "shop owner counter",
+  "w": 2000,
+  "h": 900,
+  "alt": "Entrepreneur devant son ordinateur"
+ },
+ "cat-compte-perso.jpg": {
+  "q": "woman banking app phone",
+  "w": 760,
+  "h": 720,
+  "alt": "Femme consultant son application bancaire"
+ },
+ "cat-compte-perso-hero.jpg": {
+  "q": "person holding bank card",
+  "w": 2000,
+  "h": 900,
+  "alt": "Main tenant une carte bancaire"
+ },
+ "cat-interdit-bancaire.jpg": {
+  "q": "worried woman paperwork",
+  "w": 760,
+  "h": 720,
+  "alt": "Homme inquiet devant des factures"
+ },
+ "cat-interdit-bancaire-hero.jpg": {
+  "q": "paperwork kitchen table",
+  "w": 2000,
+  "h": 900,
+  "alt": "Papiers administratifs sur une table de cuisine"
+ },
+ "cat-compte-ado.jpg": {
+  "q": "teenager smartphone city",
+  "w": 760,
+  "h": 720,
+  "alt": "Adolescent avec son smartphone en ville"
+ },
+ "cat-compte-ado-hero.jpg": {
+  "q": "teen girl shopping",
+  "w": 2000,
+  "h": 900,
+  "alt": "Adolescente faisant des achats"
+ },
+ "cat-budget.jpg": {
+  "q": "budget notebook calculator",
+  "w": 760,
+  "h": 720,
+  "alt": "Carnet de budget et calculatrice"
+ },
+ "cat-budget-hero.jpg": {
+  "q": "coins jar savings",
+  "w": 2000,
+  "h": 900,
+  "alt": "Pièces dans un bocal d'épargne"
+ },
+ "sub-autoentrepreneur.jpg": {
+  "q": "freelancer working home",
+  "w": 200,
+  "h": 200,
+  "alt": "Indépendant au travail"
+ },
+ "sub-commercant.jpg": {
+  "q": "bakery shop counter",
+  "w": 200,
+  "h": 200,
+  "alt": "Comptoir de commerce"
+ },
+ "sub-artisan.jpg": {
+  "q": "craftsman workshop",
+  "w": 200,
+  "h": 200,
+  "alt": "Artisan dans son atelier"
+ },
+ "sub-especes.jpg": {
+  "q": "euro banknotes hand",
+  "w": 200,
+  "h": 200,
+  "alt": "Billets en euros"
+ },
+ "sub-pro-en-ligne.jpg": {
+  "q": "laptop accounting dashboard",
+  "w": 200,
+  "h": 200,
+  "alt": "Tableau de bord sur ordinateur"
+ },
+ "sub-creation.jpg": {
+  "q": "startup founders meeting",
+  "w": 200,
+  "h": 200,
+  "alt": "Créateurs d'entreprise"
+ },
+ "sub-pas-cher.jpg": {
+  "q": "piggy bank coins",
+  "w": 200,
+  "h": 200,
+  "alt": "Tirelire"
+ },
+ "sub-sans-revenus.jpg": {
+  "q": "young woman wallet",
+  "w": 200,
+  "h": 200,
+  "alt": "Jeune femme comptant des pièces"
+ },
+ "sub-banque-en-ligne.jpg": {
+  "q": "mobile banking app",
+  "w": 200,
+  "h": 200,
+  "alt": "Application bancaire"
+ },
+ "sub-ouverture.jpg": {
+  "q": "signing document pen",
+  "w": 200,
+  "h": 200,
+  "alt": "Signature d'un document"
+ },
+ "sub-carte.jpg": {
+  "q": "credit card payment terminal",
+  "w": 200,
+  "h": 200,
+  "alt": "Carte bancaire sur un terminal"
+ },
+ "sub-decouvert.jpg": {
+  "q": "empty wallet",
+  "w": 200,
+  "h": 200,
+  "alt": "Portefeuille vide"
+ },
+ "sub-neobanque.jpg": {
+  "q": "smartphone payment",
+  "w": 200,
+  "h": 200,
+  "alt": "Paiement par smartphone"
+ },
+ "sub-changer.jpg": {
+  "q": "moving boxes keys",
+  "w": 200,
+  "h": 200,
+  "alt": "Changement"
+ },
+ "sub-interdit.jpg": {
+  "q": "closed padlock",
+  "w": 200,
+  "h": 200,
+  "alt": "Cadenas fermé"
+ },
+ "sub-fichage.jpg": {
+  "q": "filing cabinet folders",
+  "w": 200,
+  "h": 200,
+  "alt": "Dossiers classés"
+ },
+ "sub-droit.jpg": {
+  "q": "official letter envelope",
+  "w": 200,
+  "h": 200,
+  "alt": "Courrier officiel"
+ },
+ "sub-frais.jpg": {
+  "q": "bank statement paper",
+  "w": 200,
+  "h": 200,
+  "alt": "Relevé de compte"
+ },
+ "sub-surendettement.jpg": {
+  "q": "bills envelopes pile",
+  "w": 200,
+  "h": 200,
+  "alt": "Pile de factures"
+ },
+ "sub-cheque.jpg": {
+  "q": "signing paper pen",
+  "w": 200,
+  "h": 200,
+  "alt": "Chéquier"
+ },
+ "sub-sortir.jpg": {
+  "q": "man walking sunrise",
+  "w": 200,
+  "h": 200,
+  "alt": "Homme marchant au lever du soleil"
+ },
+ "sub-12ans.jpg": {
+  "q": "kid using smartphone",
+  "w": 200,
+  "h": 200,
+  "alt": "Enfant avec un smartphone"
+ },
+ "sub-carte-ado.jpg": {
+  "q": "teenager paying shop",
+  "w": 200,
+  "h": 200,
+  "alt": "Adolescent payant en magasin"
+ },
+ "sub-poche.jpg": {
+  "q": "coins child hand",
+  "w": 200,
+  "h": 200,
+  "alt": "Pièces dans une main d'enfant"
+ },
+ "sub-parental.jpg": {
+  "q": "parent teen phone",
+  "w": 200,
+  "h": 200,
+  "alt": "Parent et adolescent devant un téléphone"
+ },
+ "sub-etudiant.jpg": {
+  "q": "student library laptop",
+  "w": 200,
+  "h": 200,
+  "alt": "Étudiant à la bibliothèque"
+ },
+ "sub-salaire.jpg": {
+  "q": "young waiter cafe",
+  "w": 200,
+  "h": 200,
+  "alt": "Jeune serveur au travail"
+ },
+ "sub-apps.jpg": {
+  "q": "family kitchen phone",
+  "w": 200,
+  "h": 200,
+  "alt": "Famille dans la cuisine"
+ },
+ "sub-budget.jpg": {
+  "q": "budget planner notebook",
+  "w": 200,
+  "h": 200,
+  "alt": "Carnet de budget"
+ },
+ "sub-epargne.jpg": {
+  "q": "savings jar coins",
+  "w": 200,
+  "h": 200,
+  "alt": "Bocal d'épargne"
+ },
+ "sub-livret.jpg": {
+  "q": "bank passbook savings",
+  "w": 200,
+  "h": 200,
+  "alt": "Livret d'épargne"
+ },
+ "sub-economies.jpg": {
+  "q": "grocery receipt",
+  "w": 200,
+  "h": 200,
+  "alt": "Ticket de caisse"
+ },
+ "sub-fixes.jpg": {
+  "q": "rent bills paperwork",
+  "w": 200,
+  "h": 200,
+  "alt": "Factures du mois"
+ },
+ "sub-petit-salaire.jpg": {
+  "q": "woman calculator kitchen",
+  "w": 200,
+  "h": 200,
+  "alt": "Femme faisant ses comptes"
+ },
+ "sub-applis.jpg": {
+  "q": "expense tracker phone",
+  "w": 200,
+  "h": 200,
+  "alt": "Suivi des dépenses sur téléphone"
+ },
+ "art-1.jpg": {
+  "q": "entrepreneur laptop cafe",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-meilleur-compte-pro-1.jpg": {
+  "q": "woman freelancer desk",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-meilleur-compte-pro-2.jpg": {
+  "q": "coworking space laptop",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-2.jpg": {
+  "q": "freelancer home office",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-compte-pro-auto-entrepreneur-1.jpg": {
+  "q": "delivery courier bicycle",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-compte-pro-auto-entrepreneur-2.jpg": {
+  "q": "graphic designer working",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-3.jpg": {
+  "q": "bakery cashier",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-compte-pro-especes-1.jpg": {
+  "q": "market vendor cash",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-compte-pro-especes-2.jpg": {
+  "q": "hairdresser salon",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-4.jpg": {
+  "q": "young woman phone bank",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-banque-sans-condition-revenus-1.jpg": {
+  "q": "part time worker",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-banque-sans-condition-revenus-2.jpg": {
+  "q": "person counting money",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-5.jpg": {
+  "q": "two smartphones table",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-nickel-ou-n26-1.jpg": {
+  "q": "contactless payment phone",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-nickel-ou-n26-2.jpg": {
+  "q": "card payment restaurant",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-6.jpg": {
+  "q": "smiling cashier shop",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-ouvrir-compte-rapidement-1.jpg": {
+  "q": "paris street shop",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-ouvrir-compte-rapidement-2.jpg": {
+  "q": "passport document hand",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-7.jpg": {
+  "q": "man worried laptop",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-banque-interdit-bancaire-1.jpg": {
+  "q": "man sitting thinking window",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-banque-interdit-bancaire-2.jpg": {
+  "q": "calculator bills table",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-8.jpg": {
+  "q": "empty wallet coins",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-compte-sans-decouvert-1.jpg": {
+  "q": "atm cash withdrawal",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-compte-sans-decouvert-2.jpg": {
+  "q": "woman checking phone balance",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-9.jpg": {
+  "q": "teenager paying card",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-meilleure-carte-ado-1.jpg": {
+  "q": "teen friends shopping",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-meilleure-carte-ado-2.jpg": {
+  "q": "teen boy phone street",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-10.jpg": {
+  "q": "mother daughter phone",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-nickel-ou-revolut-ado-1.jpg": {
+  "q": "teen boy skateboard",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-nickel-ou-revolut-ado-2.jpg": {
+  "q": "teenager phone sofa",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-11.jpg": {
+  "q": "self employed paperwork",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-compte-pro-obligatoire-1.jpg": {
+  "q": "invoice laptop",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-compte-pro-obligatoire-2.jpg": {
+  "q": "small business accounting",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-12.jpg": {
+  "q": "woman reviewing bills laptop",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-frais-bancaires-1.jpg": {
+  "q": "receipts calculator",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-frais-bancaires-2.jpg": {
+  "q": "calculator paperwork desk",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-13.jpg": {
+  "q": "woman reading letter",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-droit-au-compte-1.jpg": {
+  "q": "woman opening mail",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-droit-au-compte-2.jpg": {
+  "q": "man filling form",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-14.jpg": {
+  "q": "overdue bills",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-frais-incident-1.jpg": {
+  "q": "man stressed phone",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-frais-incident-2.jpg": {
+  "q": "unpaid bills envelopes",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-15.jpg": {
+  "q": "child piggy bank",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-carte-bancaire-age-1.jpg": {
+  "q": "parent child shopping",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-carte-bancaire-age-2.jpg": {
+  "q": "teen card payment",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-16.jpg": {
+  "q": "euro coins hand",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-argent-de-poche-1.jpg": {
+  "q": "teenager allowance",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-argent-de-poche-2.jpg": {
+  "q": "child counting coins",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-17.jpg": {
+  "q": "budget planner",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-budget-mensuel-1.jpg": {
+  "q": "grocery shopping budget",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-budget-mensuel-2.jpg": {
+  "q": "family finances table",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "art-18.jpg": {
+  "q": "savings jar",
+  "w": 1300,
+  "h": 860,
+  "alt": ""
+ },
+ "in-epargne-precaution-1.jpg": {
+  "q": "emergency fund coins",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ },
+ "in-epargne-precaution-2.jpg": {
+  "q": "woman saving money",
+  "w": 1200,
+  "h": 700,
+  "alt": ""
+ }
+}
