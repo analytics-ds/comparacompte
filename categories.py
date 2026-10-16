@@ -12,7 +12,7 @@ CATS = [
   grid_h2="Tous les comparatifs et guides compte pro",
   rank_h2="Le classement des comptes pro pour indépendants en octobre 2026",
   rank_p="Note globale sur 10 sur l'univers des indépendants et micro-entrepreneurs, relevé de démonstration. Pour une société à plusieurs associés, le classement change, Qonto passe devant.",
-  rank=[("nickel","Nickel Pro","Le plus accessible","50 € par an tout compris, sans condition de chiffre d'affaires, espèces dans plus de 8 600 points de vente.","8,6","up","▲ +0,2"),
+  rank=[("nickel","Nickel Pro","Le plus accessible","50 € par an, sans condition de chiffre d'affaires, espèces dans plus de 8 600 points de vente.","8,6","up","▲ +0,2"),
         ("shine","Shine","Le plus complet pour démarrer","Offre gratuite, facturation intégrée, dépôt d'espèces de 2 à 5 % selon la formule.","8,3","flat","= 0,0"),
         ("n26","N26 Business","Le moins cher","Formule Standard gratuite pour les EI et micro-entrepreneurs, pas d'encaissement de chèques.","8,1","flat","= 0,0"),
         ("qonto","Qonto","Le plus riche en services","Outils de gestion et chèques inclus, dès 9 € HT par mois.","8,0","down","▼ -0,1"),

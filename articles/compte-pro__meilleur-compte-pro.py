@@ -7,7 +7,7 @@ ARTICLE = dict(
  lead="Dix comptes professionnels comparés, du compte gratuit de néobanque à la formule de banque de réseau qui dépasse 100 € par an. Les critères et leur poids sont posés avant le classement, et chaque compte a droit à son point fort comme à ses défauts.",
  img="art-1.jpg", img_alt="Bureau d'indépendant avec ordinateur portable, carnet et tasse de café",
  date="2026-10-13", date_fr="13 octobre 2026", reading="10", nb="10",
- brief_answer="La meilleure banque pour un compte pro en 2026 est <b>Nickel Pro</b>, avec <b>8,7/10</b> (relevé de démonstration). Pour un indépendant, c'est le compte le plus lisible du panel, 50 € par an tout compris, sans condition de chiffre d'affaires, avec le dépôt d'espèces en point de vente. <b>Qonto</b> arrive deuxième avec <b>8,5/10</b>, l'offre la plus complète pour les sociétés, mais deux fois plus chère dès la première formule. <b>Shine</b> complète le podium avec <b>8,2/10</b> et une formule gratuite.",
+ brief_answer="La meilleure banque pour un compte pro en 2026 est <b>Nickel Pro</b>, avec <b>8,7/10</b> (relevé de démonstration). Pour un indépendant, c'est le compte le plus lisible du panel, 50 € par an, sans condition de chiffre d'affaires, avec le dépôt d'espèces en point de vente. <b>Qonto</b> arrive deuxième avec <b>8,5/10</b>, l'offre la plus complète pour les sociétés, mais deux fois plus chère dès la première formule. <b>Shine</b> complète le podium avec <b>8,2/10</b> et une formule gratuite.",
  brief=[
   "Qonto Basic coûte 9 € HT par mois en facturation annuelle, soit 108 € HT par an, plus du double des 50 € par an de Nickel Pro.",
   "Trois comptes du panel sont gratuits à l'entrée, Shine Free, N26 Business Standard et Bourso Business, ce dernier à condition d'une opération par mois.",
@@ -18,7 +18,7 @@ ARTICLE = dict(
  table=dict(
   head=["Compte","Note /10","Prix d'entrée","Dépôt d'espèces","Chèques","Le point fort"],
   rows=[
-   ["Nickel Pro","8,7","50 € par an","3 % en point de vente","Encaissement à 3 €, pas de chéquier","Le prix tout compris et les espèces",1],
+   ["Nickel Pro","8,7","50 € par an","3 % en point de vente","Encaissement à 3 €, pas de chéquier","Le prix fixe et les espèces",1],
    ["Qonto","8,5","9 € HT par mois","Non publié","Par courrier, 2 € l'unité en Basic","Le plus complet, de l'indépendant à la société",0],
    ["Shine","8,2","0 € en Free","De 2 à 5 % selon la formule","2 € HT, 5 € HT en Free","Une formule gratuite",0],
    ["N26 Business","7,9","0 € en Standard","Non publié","Pas d'encaissement","Gratuit pour les micro-entrepreneurs",0],
@@ -31,7 +31,7 @@ ARTICLE = dict(
   ],
   note="Prix d'entrée hors promotion, en HT quand la plaquette tarifaire l'indique. Tarifs Revolut Business, Bourso Business et Hello Business repris de sources tierces. Notes et tarifs, relevé de démonstration de la rédaction, octobre 2026."),
  podium=[
-  ("nickel","Nickel Pro","Le prix tout compris","50 € par an, espèces en point de vente","8,7"),
+  ("nickel","Nickel Pro","Le prix fixe","50 € par an, espèces en point de vente","8,7"),
   ("qonto","Qonto","Le plus complet","De 9 à 199 € HT par mois, sociétés comprises","8,5"),
   ("shine","Shine","La formule gratuite","0 € en Free, dépôt d'espèces dès 2 %","8,2"),
  ],
@@ -52,7 +52,7 @@ ARTICLE = dict(
   ]),
   dict(h2="Le classement des 10 comptes pro", id="classement", body=[
    ("podium",None),
-   ("p","Nickel Pro prend la première place. Il gagne nettement sur le prix tout compris, 50 € par an prélevés en une fois, virements instantanés et prélèvements illimités inclus, sans engagement ni condition de chiffre d'affaires. Il gagne aussi sur les espèces, déposées en point de vente parmi les plus de 8 600 que revendique Nickel, un vrai atout pour un artisan ou un commerçant payé en liquide. Ses limites sont connues. Les SASU et les EURL sont exclues, il n'existe pas encore de terminal de paiement et l'application reste moins riche que celle de Qonto."),
+   ("p","Nickel Pro prend la première place. Il gagne nettement sur le prix fixe, 50 € par an prélevés en une fois, virements instantanés et prélèvements illimités inclus, sans engagement ni condition de chiffre d'affaires. Il gagne aussi sur les espèces, déposées en point de vente parmi les plus de 8 600 que revendique Nickel, un vrai atout pour un artisan ou un commerçant payé en liquide. Ses limites sont connues. Les SASU et les EURL sont exclues, il n'existe pas encore de terminal de paiement et l'application reste moins riche que celle de Qonto."),
    ("p","Qonto est deuxième, à deux dixièmes. Il prend la première place sur les services. Six formules couvrent tout le spectre, de Basic à 9 € HT par mois pour un indépendant jusqu'à Enterprise à 199 € HT pour une entreprise structurée, et les chèques sont encaissés par courrier. L'outil de gestion et de pré-comptabilité est le plus abouti du panel avec celui de Revolut Business, et Qonto revendique plus de 750 000 entreprises clientes. Son défaut tient au prix, 108 € HT par an pour la formule la moins chère, plus du double de Nickel Pro."),
    ("p","Shine complète le podium. Sa formule Free à 0 € est un vrai argument, et c'est un des rares comptes pro qui publie ses frais de dépôt d'espèces, de 5 % en Free à 2 % en Business. Shine appartient désormais à Cegid, l'éditeur de logiciels de gestion, et revendique plus de 400 000 clients."),
    ("p","Derrière le podium, les écarts se resserrent. N26 Business, quatrième avec 7,9/10, est gratuit en Standard mais réservé aux micro-entrepreneurs et EI, et n'encaisse pas les chèques. Revolut Business, cinquième, a l'application la plus riche du panel, mais sa formule Basic coûte 10 € par mois et ses tarifs d'espèces et de chèques ne sont pas publiés dans les sources que nous avons lues. Bourso Business, sixième, est gratuit dès une opération par mois et encaisse les chèques sans frais jusqu'à 1 500 € sur 30 jours glissants, mais refuse les espèces."),
@@ -91,7 +91,7 @@ ARTICLE = dict(
    ("h3","Vous êtes en société"),
    ("p","Prenez Qonto. Ses formules Essential, Business et Enterprise sont pensées pour les sociétés, de 49 à 199 € HT par mois. Pour une SASU ou une EURL qui veut un interlocuteur bancaire classique, Hello Business est l'alternative, mais il refuse les sociétés à plusieurs associés."),
    ("h3","Vous êtes indépendant et vous voulez un prix fixe"),
-   ("p","Nickel Pro, à 50 € par an tout compris, est le choix le plus lisible. Aucune condition de chiffre d'affaires, une cotisation remboursée au prorata si vous partez. Vérifiez simplement que vous n'avez besoin ni de chéquier ni de terminal de paiement."),
+   ("p","Nickel Pro, à 50 € par an, est le choix le plus lisible. Aucune condition de chiffre d'affaires, une cotisation remboursée au prorata si vous partez. Vérifiez simplement que vous n'avez besoin ni de chéquier ni de terminal de paiement."),
    ("h3","Vous voulez ne rien payer"),
    ("p","N26 Business Standard si vous ne recevez jamais de chèque, Shine Free si vous en recevez quelques-uns, Bourso Business si vous en recevez beaucoup et que votre compte tourne chaque mois."),
    ("h3","Vous voulez l'application la plus complète"),
@@ -101,11 +101,11 @@ ARTICLE = dict(
   ]),
  ],
  verdict=dict(h2="Notre verdict", body=[
-  "<b>Nickel Pro</b> est la meilleure banque pour un compte pro en 2026, avec 8,7/10. Il gagne sur le prix tout compris, l'accessibilité et les espèces, et ne perd que sur les statuts acceptés et l'équipement. <b>Qonto</b> suit avec 8,5/10, devant sur les services et l'ouverture aux sociétés, derrière sur le prix.",
+  "<b>Nickel Pro</b> est la meilleure banque pour un compte pro en 2026, avec 8,7/10. Il gagne sur le prix fixe, l'accessibilité et les espèces, et ne perd que sur les statuts acceptés et l'équipement. <b>Qonto</b> suit avec 8,5/10, devant sur les services et l'ouverture aux sociétés, derrière sur le prix.",
   "Si votre priorité est la société et les outils, prenez <b>Qonto</b>. Si vous êtes indépendant et voulez un prix fixe avec des espèces à déposer, prenez <b>Nickel Pro</b>. Si vous voulez payer zéro, prenez <b>Shine Free</b> ou <b>N26 Business</b> selon que vous recevez des chèques ou non.",
  ]),
  faq=[
-  ("Quelle est la meilleure banque pour un compte pro en 2026 ?","Nickel Pro obtient la meilleure note de notre comparatif avec 8,7/10, grâce à un prix de 50 € par an tout compris et au dépôt d'espèces en point de vente. Qonto est deuxième avec 8,5/10 pour ses six formules qui couvrent indépendants et sociétés, Shine troisième avec 8,2/10 pour sa formule gratuite."),
+  ("Quelle est la meilleure banque pour un compte pro en 2026 ?","Nickel Pro obtient la meilleure note de notre comparatif avec 8,7/10, grâce à un prix de 50 € par an et au dépôt d'espèces en point de vente. Qonto est deuxième avec 8,5/10 pour ses six formules qui couvrent indépendants et sociétés, Shine troisième avec 8,2/10 pour sa formule gratuite."),
   ("Nickel Pro accepte-t-il les SASU et les EURL ?","Non. Nickel Pro est réservé aux indépendants, artisans, commerçants, professions libérales, micro-entrepreneurs et EI, majeurs et résidant en France. Une SASU ou une EURL doit se tourner vers Qonto, Hello Business ou une banque de réseau."),
   ("Existe-t-il un compte pro gratuit ?","Oui, trois comptes du panel sont à 0 €. Shine Free, N26 Business Standard, réservé aux micro-entrepreneurs et EI, et Bourso Business, gratuit à condition d'au moins une opération par mois, sinon 9 € par mois."),
   ("Quel compte pro accepte les dépôts d'espèces ?","Nickel Pro accepte les dépôts d'espèces en point de vente pour 3 % du montant, dans la limite de 950 € par jour et 5 000 € par mois. Shine les facture de 2 à 5 % selon la formule. Bourso Business ne prend pas d'espèces."),

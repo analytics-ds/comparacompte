@@ -7,7 +7,7 @@ ARTICLE = dict(
  lead="Vous venez de passer la barre des 10 000 € de chiffre d'affaires, ou vous voulez simplement séparer vos recettes de vos courses. Huit comptes pro adaptés aux micro-entrepreneurs ont été comparés sur le prix réel à l'usage, les conditions d'accès et ce qu'ils savent encaisser.",
  img="art-2.jpg", img_alt="Jeune travailleuse indépendante à son bureau devant un ordinateur portable",
  date="2026-10-10", date_fr="10 octobre 2026", reading="9", nb="8",
- brief_answer="Pour un auto-entrepreneur, le compte pro le mieux noté en 2026 est <b>Nickel Pro</b>, avec <b>8,6/10</b> (relevé de démonstration). Il coûte 50 € par an tout compris, sans condition de chiffre d'affaires, et accepte les espèces en point de vente. <b>Shine</b> suit de près avec <b>8,3/10</b> et une formule gratuite, puis <b>N26 Business</b> avec <b>8,1/10</b>, gratuit lui aussi mais sans encaissement de chèque.",
+ brief_answer="Pour un auto-entrepreneur, le compte pro le mieux noté en 2026 est <b>Nickel Pro</b>, avec <b>8,6/10</b> (relevé de démonstration). Il coûte 50 € par an, sans condition de chiffre d'affaires, et accepte les espèces en point de vente. <b>Shine</b> suit de près avec <b>8,3/10</b> et une formule gratuite, puis <b>N26 Business</b> avec <b>8,1/10</b>, gratuit lui aussi mais sans encaissement de chèque.",
  brief=[
   "Un compte bancaire dédié devient obligatoire quand le chiffre d'affaires dépasse 10 000 € deux années civiles consécutives.",
   "Shine Free et N26 Business Standard sont gratuits, Nickel Pro coûte 50 € par an et Qonto Basic 108 € HT par an.",
